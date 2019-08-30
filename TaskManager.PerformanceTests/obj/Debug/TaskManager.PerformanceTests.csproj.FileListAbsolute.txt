@@ -1,0 +1,82 @@
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\NBench.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Model.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Model.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\NBench.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Model.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Model.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.dll.config
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.PerformanceTests.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\NBench.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Model.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.DataAccessLib.dll.config
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Model.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\bin\Debug\TaskManager.Entities.dll.config
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.PerformanceTests\obj\Debug\TaskManager.PerformanceTests.pdb

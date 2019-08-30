@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.DataAccessLib.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.DataAccessLib.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Model.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Entities.dll.config
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Model.pdb
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Admin\Desktop\Assignments\Capsule\TaskManager-master\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.DataAccessLib.dll.config
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.DataAccessLib.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Entities.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Model.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Entities.dll.config
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\TaskManager.Model.pdb
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.dll
+C:\Users\Administrator\Desktop\Assignment To sumbit\Capsule\Final\TaskManager-master\TaskManager.DataAccessLib\obj\Debug\TaskManager.DataAccessLib.pdb
